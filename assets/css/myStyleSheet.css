@@ -1,0 +1,60 @@
+.image-size img{
+    width: 300px;
+    height: 260px;
+    border: #000000 1px solid;
+    padding: 15px;
+
+}
+
+
+.image-size img:hover{
+    width: 301px;
+    height: 261px;
+    border: #5e5e5e 1px solid;
+    padding: 15px;
+}
+.CorroselCcontainer{
+    width: 90%;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 5%;
+    margin-left: 5%;
+}
+
+.wishlistImg img{
+
+    width: 100%;
+    height: 100%;
+
+}
+#shipped {
+    padding: 5px;
+    background: green;
+    width: 150px;
+    height: 50px;
+
+}
+#shipped td{
+    width: 120px;
+    color: whitesmoke;
+padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
+
+#inProcess {
+    padding: 5px;
+    background: red;
+    width: 150px;
+    height: 50px;
+
+}
+#inProcess td{
+    width: 120px;
+    color: whitesmoke;
+    padding: 10px;
+    font-size: larger;
+    font-weight: bold;
+}
+
